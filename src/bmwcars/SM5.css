@@ -1,0 +1,148 @@
+.SM5-banner-img {
+    width: 100%;
+}
+
+.SM5-banner-text {
+    font-size: 60px;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 90px;
+    color: white;
+    text-shadow: 0px 2px 4px black;
+}
+
+.SM5-car-text {
+    font-size: 40px;
+    margin-top: 60px;
+    margin-left: 85px;
+}
+
+.SM5-car-img {
+    text-align: center;
+    margin-top: 30px;
+    width: 1100px;
+    margin-left: 60px;
+}
+
+.SM5-show-text {
+    font-size: 50px;
+    margin-top: 100px;
+    margin-left: 85px;
+}
+
+.SM5-show-text-1 {
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 85px;
+}
+
+
+.SM5-show-img-1 {
+    margin-top: 40px;
+    margin-left: 75px;
+}
+
+.SM5-show-e1, .SM5-show-e2, .SM5-show-e3, .SM5-show-e4 {
+    margin-right: 30px;
+    margin-bottom: 20px;
+    width: 600px;
+}
+
+.SM5-show-e1:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+    box-shadow: 0px 5px 20px gray;
+}
+
+.SM5-show-e2:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+    box-shadow: 0px 5px 20px gray;
+}
+
+.SM5-show-e3:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+    box-shadow: 0px 5px 20px gray;
+}
+
+.SM5-show-e4:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+    box-shadow: 0px 5px 20px gray;
+}
+
+.SM5-show-text-2 {
+    font-size: 30px;
+    margin-top: 80px;
+    margin-left: 85px;
+}
+
+
+.SM5-show-img-2 {
+    margin-top: 40px;
+    margin-left: 75px;
+}
+
+.SM5-show-i1, .SM5-show-i2 {
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+.SM5-show-i1:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+    box-shadow: 0px 5px 20px gray;
+}
+
+.SM5-show-i2:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+    box-shadow: 0px 5px 20px gray;
+}
+
+.SM5-data-text {
+    font-size: 50px;
+    margin-top: 80px;
+    margin-left: 85px;
+}
+
+.SM5-data-img {
+    margin-top: 30px;
+    margin-left: 65px;
+    float: left;
+    width: 530px;
+}
+
+.SM5-data-text1 {
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 85px;
+}
+
+.SM5-tdata {
+    float: left;
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+.SM5-table {
+    padding-right: 60px;
+    padding-top: 25px;
+    padding-left: 75px;
+    padding-bottom: 10px;
+}
+
+.SM5-Buy {
+    font-size: 20px;
+    background-color: rgb(0, 72, 255);
+    width: 400px;
+    margin-left: 140px;
+    margin-top: 10px;
+}
