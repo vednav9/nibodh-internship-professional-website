@@ -1,0 +1,89 @@
+#contact {
+    text-decoration: underline;
+    text-underline-offset: 14px;
+}
+
+.contact-banner-img {
+    width: 100%;
+}
+
+.contact-banner-text {
+    color: white;
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 60px;
+    font-size: 70px;
+    text-shadow: 0px 5px 20px black;
+}
+
+.contact-h1 {
+    font-size: 40px;
+    margin-top: 35px;
+    margin-left: 80px;
+}
+
+.contact-p1 {
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.contact-h2 {
+    font-size: 22px;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.contact-p2 {
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 80px;
+    margin-left: 80px;
+}
+
+.contact-h3 {
+    font-size: 22px;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.contact-p3 {
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 80px;
+    list-style-type: none;
+    margin-right: 80px;
+}
+
+.contact-h4 {
+    font-size: 22px;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.contact-p4 {
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 80px;
+    list-style-type: none;
+    margin-right: 80px;
+}
+
+.contact-h5 {
+    font-size: 22px;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.contact-p5 {
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 80px;
+    list-style-type: none;
+    margin-right: 80px;
+}
+
+.contact-bmw-link {
+    color: blue;
+}

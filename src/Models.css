@@ -1,0 +1,278 @@
+#models {
+    text-decoration: underline;
+    text-underline-offset: 14px;
+}
+
+/************************* Banner Model **************************/
+
+.models-banner {
+    width: 100%;
+}
+
+.models-heading {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    text-underline-offset: 14px;
+    text-decoration: underline;
+}
+
+
+.models-series-2 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 275px;
+    margin: 50px auto 30px 140px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.models-series-2:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.models-series-2-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.models-series-2-text {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+/******************** Series 3 **********************/
+
+.models-series-3 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 275px;
+    margin: 50px auto 30px 140px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.models-series-3:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.models-series-3-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.models-series-3-text {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+/******************** Series 5 **********************/
+
+.models-series-5 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 275px;
+    margin: 50px auto 30px 140px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.models-series-5:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.models-series-5-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.models-series-5-text {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+/******************** Series 6 **********************/
+
+.models-series-6 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 275px;
+    margin: 50px auto 30px 140px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.models-series-6:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.models-series-6-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.models-series-6-text {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 8px;
+}
+
+/******************** Series 7 **********************/
+
+.models-series-7 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 275px;
+    margin: 50px auto 30px 140px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.models-series-7:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.models-series-7-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.models-series-7-text {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 35px;
+}
+
+/******************** Series X **********************/
+
+.models-series-X {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 275px;
+    margin: 50px auto 30px 140px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.models-series-X:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.models-series-X-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.models-series-X-text {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 0px;
+}
+
+/******************** Series M **********************/
+
+.models-series-M {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 275px;
+    margin: 50px auto 30px 140px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.models-series-M:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.models-series-M-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.models-series-M-text {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+/******************** Series I **********************/
+
+.models-series-I {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 275px;
+    margin: 50px auto 30px 140px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.models-series-I:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.models-series-I-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.models-series-I-text {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 0px;
+}
+
+/******************** Series Z **********************/
+
+.models-series-Z {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 275px;
+    margin: 50px auto 30px 140px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.models-series-Z:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.models-series-Z-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.models-series-Z-text {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 20px;
+}

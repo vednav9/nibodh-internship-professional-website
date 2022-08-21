@@ -1,0 +1,66 @@
+#services {
+    text-decoration: underline;
+    text-underline-offset: 14px;
+}
+
+.services-banner {
+    width: 100%;
+}
+
+.services-banner-text {
+    position: absolute;
+    color: black;
+    font-size: 70px;
+    margin-top: 110px;
+    margin-left: 80px;
+}
+
+.services-text {
+    font-size: 60px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.services-warranty {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 150px;
+    margin: 50px auto 30px 140px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.services-warranty:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.services-warranty-text {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 55px;
+}
+
+.services-sandr {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 150px;
+    margin: 50px auto 30px 140px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.services-sandr:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.services-sandr-text {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 55px;
+}

@@ -1,0 +1,120 @@
+/////////Folder Name
+
+////////////////JS
+About.js
+App.js
+Contact.js
+Home.js
+index.js
+Layout.js
+Models.js
+Navbar.js
+Services.js
+
+Seriesfive.js /modelall
+Seriesi.js /modelall
+Seriesm.js /modelall
+Seriesseven.js /modelall
+Seriessix.js /modelall
+Seriesthree.js /modelall
+Seriestwo.js /modelall
+Seriesx.js /modelall
+Seriesz.js /modelall
+
+
+///////////////CSS
+About.css
+App.css
+Contact.css
+Home.css
+Layout.css
+Models.css
+Navbar.css
+Services.js
+
+Series2.css / modelall
+Series3.css / modelall
+
+
+////////File name
+
+
+.bannerphoto / home.css
+.bannertext / home
+.bannertext1 / home
+.bannertext2 / home
+
+
+
+.bannermodel / models
+.heading /models
+.series-2 /models
+.series2img /models
+.series2text /models
+.series-3 /models
+.series3img /models
+.series3text /models
+.series-5 /models
+.series5img /models
+.series5text /models
+.series-6 /models
+.series6img /models
+.series6text /models
+.series-7 /models 
+.series7img /models
+.series7text /models
+.series-X /models
+.seriesXimg /models
+.seriesXtext /models
+.series-M /models
+.seriesMimg /models
+.seriesMtext /models
+.series-I /models
+.seriesIimg /models
+.seriesItext /models
+.series-Z /models
+.seriesZimg /models
+.seriesZtext /models
+
+
+.navbar  /navbar
+.bmwlogo /navbar
+li /navbar
+.li /navbar
+a /navbar
+
+.series2banner /Series2
+.banner-text /Series2
+.bmw-2 /Series2
+.bmwimg /Series2
+.bmwtext /Series2
+.fuel /Series2
+.price /Series2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

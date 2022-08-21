@@ -1,0 +1,115 @@
+#home {
+    text-decoration: underline;
+    text-underline-offset: 14px;
+}
+
+/******************** Banner ******************/
+
+.home-banner-photo {
+    width: 100%;
+}
+
+.home-banner-text {
+    position: absolute;
+    margin-top: 140px;
+    color: black;
+    margin-left: 20px;
+}
+
+.home-banner-text1 {
+    font-size: 53px;
+    font-weight: 700;
+}
+
+.home-banner-text2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.home-series-i {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 600px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.homebmwi {
+    width: 600px;
+}
+
+.home-bmwi-text {
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-shadow: 0px 5px 20px black;
+}
+
+.home-about-img {
+    width: 600px;
+}
+
+.home-about-text {
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-shadow: 0px 5px 20px black;
+}
+
+.home-about {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 600px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.home-sandr-img {
+    width: 600px;
+}
+
+.home-sandr-text {
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-shadow: 0px 5px 20px black;
+}
+
+.home-sandr {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 600px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.home-policies-img {
+    width: 600px;
+}
+
+.home-policies-text {
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-shadow: 0px 5px 20px black;
+}
+
+.home-policies {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 600px;
+    float: left;
+    margin-bottom: 20px;
+}
