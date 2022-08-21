@@ -27,7 +27,7 @@ function Home() {
                     <img src={homebmwi} alt='homebmwi' className='homebmwi' />
                 </div>
             </Link>
-            <Link to="/home-about">
+            <Link to="/about">
                 <div className='home-about'>
                     <div className='home-about-text'>Who are we?</div>
                     <img src={homeabout} alt='bmwimg' className='home-about-img' />
@@ -39,7 +39,7 @@ function Home() {
                     <img src={homepolicies} alt='servicesandrepair' className='home-policies-img' />
                 </div>
             </Link>
-            <Link to="/ServicesandRepair">
+            <Link to="/contact">
                 <div className='home-sandr'>
                     <div className='home-sandr-text'>Contact Us</div>
                     <img src={serviceandrepairbanner} alt='servicesandrepair' className='home-sandr-img' />
