@@ -1,0 +1,134 @@
+.s3-banner-img {
+    width: 100%;
+}
+
+.s3-banner-text {
+    font-size: 60px;
+    font-weight: 700;
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 90px;
+    text-decoration: underline;
+    text-underline-offset: 14px;
+    text-shadow: 0px 2px 4px;
+}
+
+
+/******************* BMW 3 1 *****************/
+.s3-1 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 330px;
+    margin: 50px auto 30px 150px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.s3-1:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.s3-1-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.s3-1-text {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 35px;
+}
+
+.s3-1-fuel {
+    font-size: large;
+    margin-top: 7px;
+}
+
+.s3-1-price {
+    font-size: larger;
+    margin-top: 7px;
+    font-weight: bolder;
+}
+
+
+/******************* BMW 3 2 *****************/
+.s3-2 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 330px;
+    margin: 50px auto 30px 150px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.s3-2:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.s3-2-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.s3-2-text {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 35px;
+}
+
+.s3-2-fuel {
+    font-size: large;
+    margin-top: 7px;
+}
+
+.s3-2-price {
+    font-size: larger;
+    margin-top: 7px;
+    font-weight: bolder;
+}
+
+
+/******************* BMW 3 3 *****************/
+.s3-3 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 330px;
+    margin: 50px auto 30px 150px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.s3-3:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.s3-3-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.s3-3-text {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 35px;
+}
+
+.s3-3-fuel {
+    font-size: large;
+    margin-top: 7px;
+}
+
+.s3-3-price {
+    font-size: larger;
+    margin-top: 7px;
+    font-weight: bolder;
+}

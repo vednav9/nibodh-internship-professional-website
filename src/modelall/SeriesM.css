@@ -1,0 +1,254 @@
+.sm-banner-img {
+    width: 100%;
+}
+
+.sm-banner-text {
+    font-size: 60px;
+    font-weight: 700;
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 90px;
+    text-decoration: underline;
+    text-underline-offset: 14px;
+    text-shadow: 0px 2px 4px;
+}
+
+
+/******************* BMW x 1 *****************/
+.sm-1 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 330px;
+    margin: 50px auto 30px 150px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.sm-1:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.sm-1-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.sm-1-text {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 5px;
+}
+
+.sm-1-fuel {
+    font-size: large;
+    margin-top: 7px;
+}
+
+.sm-1-price {
+    font-size: larger;
+    margin-top: 7px;
+    font-weight: bolder;
+}
+
+
+/******************* BMW 3 2 *****************/
+.sm-2 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 330px;
+    margin: 50px auto 30px 150px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.sm-2:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.sm-2-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.sm-2-text {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+.sm-2-fuel {
+    font-size: large;
+    margin-top: 7px;
+}
+
+.sm-2-price {
+    font-size: larger;
+    margin-top: 7px;
+    font-weight: bolder;
+}
+
+
+/******************* BMW 3 3 *****************/
+.sm-3 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 330px;
+    margin: 50px auto 30px 150px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.sm-3:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.sm-3-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.sm-3-text {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+.sm-3-fuel {
+    font-size: large;
+    margin-top: 7px;
+}
+
+.sm-3-price {
+    font-size: larger;
+    margin-top: 7px;
+    font-weight: bolder;
+}
+
+
+/******************* BMW X 4 *****************/
+.sm-4 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 330px;
+    margin: 50px auto 30px 150px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.sm-4:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.sm-4-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.sm-4-text {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+.sm-4-fuel {
+    font-size: large;
+    margin-top: 7px;
+}
+
+.sm-4-price {
+    font-size: larger;
+    margin-top: 7px;
+    font-weight: bolder;
+}
+
+
+/******************* BMW X 5 *****************/
+.sm-5 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 330px;
+    margin: 50px auto 30px 150px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.sm-5:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.sm-5-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.sm-5-text {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+.sm-5-fuel {
+    font-size: large;
+    margin-top: 7px;
+}
+
+.sm-5-price {
+    font-size: larger;
+    margin-top: 7px;
+    font-weight: bolder;
+}
+
+
+/******************* BMW X 6 *****************/
+.sm-6 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 330px;
+    margin: 50px auto 30px 150px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.sm-6:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.sm-6-img {
+    width: 400px;
+    margin-top: 15px;
+}
+
+.sm-6-text {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 12px;
+}
+
+.sm-6-fuel {
+    font-size: large;
+    margin-top: 7px;
+}
+
+.sm-6-price {
+    font-size: larger;
+    margin-top: 7px;
+    font-weight: bolder;
+}

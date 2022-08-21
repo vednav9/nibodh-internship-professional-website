@@ -1,0 +1,51 @@
+.s7-banner-img {
+    width: 100%;
+}
+
+.s7-banner-text {
+    font-size: 60px;
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 90px;
+    text-decoration: underline;
+    text-underline-offset: 14px;
+    text-shadow: 0px 2px 4px;
+}
+
+.bmw-7 {
+    box-shadow: 0px 5px 20px gray;
+    text-align: center;
+    width: 450px;
+    height: 325px;
+    margin: 50px auto 30px 400px;
+    float: left;
+    transition: transform 0.3s;
+}
+
+.bmw-7:hover {
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+}
+
+.bmw-7-img {
+    width: 400px;
+    margin-top: 20px;
+}
+
+.bmw-7-text {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 35px;
+}
+
+.bmw-7-fuel {
+    font-size: large;
+    margin-top: 7px;
+}
+
+.bmw-7-price {
+    font-size: larger;
+    margin-top: 7px;
+    font-weight: bolder;
+}
